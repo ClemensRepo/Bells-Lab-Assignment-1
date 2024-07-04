@@ -1,17 +1,17 @@
-Nerdi Digi Nomad Company Webpage
-This website showcase our services in digital marketing, creative design and call center operations to promote and market clients' product and services
+Nerdy Digi Nomad Company Webpage
+This website showcases our services in digital marketing, creative design and call center operations to promote and market clients' products and services
 
 
 Design Process
 The website has to show clearly the different types of services NDN is offering to businesses. Having links to various parts of the website, as well as information enables the viewer to have a clearer picture.
 
-The carousel showcase all the 3 types of services NDN is offering. Contact us page enable interested parties to contact NDN by submitting a form. Contact details like operating hours, phone number and social media accounts are readily available at the bottom of each page
+The carousel showcases all the 3 types of services NDN is offering. Contact us page enables interested parties to contact NDN by submitting a form. Contact details like operating hours, phone number and social media accounts are readily available at the bottom of each page
 
 
 Features
-Different parts of the websites contains information about the company. It's servces offered.
+Different parts of the websites contain information about the company the servces offered.
 
-In the contact us page, viewers can input their information by filling up a form. The company shall contact them after the form is submitted. The reset buittons allows the viewer to clear all the fields in the form itself and enter information on a clean slate.
+In the "contact us" page, viewers can input their information by filling up a form. The company shall contact them after the form is submitted. The reset buttons allow the viewer to clear all the fields in the form itself and enter information on a clean slate.
 
 
 Technologies Used
